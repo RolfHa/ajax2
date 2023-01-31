@@ -1,0 +1,14 @@
+Eine Firma hat 2 Mitarbeiter mit je einem Vor- und Nachnamen.
+Diese Namen sind in 2 Dateien gespeichert, z.B.
+Datei   Inhalt
+m1.txt  Franko Frei
+m2.txt  Sigrid Clou
+
+Erstelle eine php-Datei, die diese Werte auslesen und in Vor- und Nachnamen trennen kann
+Zusätzlich soll diese php-Datei die Namen auch speichern können
+Die Vornamen bestehen immer 6 Buchestaben, die Nachnamen aus 4 Buchstaben
+
+Erstelle eine html-Datei, die sich per Ajax mit der php-Datei verbindet
+diest Datei soll 4 input-text-Felder haben, die die 4 Namen anzeigt
+beim Ändern eines dieser input-text-Felder soll der geänderte Namen wieder in der ursprünglichen
+Textdatei gespeichert werden.
